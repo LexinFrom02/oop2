@@ -5,6 +5,7 @@ public class Repost {
     private boolean canRepost;
     private boolean reposted;
 
+
     public int getRepostCount() {
         return repostCount;
     }
